@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Swap Slide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nov1">
+    Cerita tentang pencarian jiwa dan perjalanan berdamai dengan masa lalu melalui kopi. Ben dan Jody adalah sahabat yang membangun kedai "Filosofi Kopi", sebuah kedai kopi terkemuka di Jakarta yang hanya menyediakan kopi terbaik Indonesia. Sebuah tantangan untuk membuat kopi yang sempurna dari seorang pengusaha membawa Ben dan Jody pada petualangan menyusun serpihan masa lalu mereka yang penuh getir dengan orang tua mereka masing-masing. Sebuah film yang tidak hanya bercerita, tapi juga membuka wawasan baru untuk melihat kopi Indonesia dalam bingkai yang penuh gairah dan cinta
+    </string>
+
+    <string name="nov2">
+    Satu lagi novel dengan tema menarik yang hadir. Kali ini, Ratih Kumala dengan Gadis Kretek menyuguhkan kisah yang dapat ditelusuri dari sebatang rokok. Kisah bermula dari permintaan terakhir ayah Lebas, Karim dan Tegar untuk mencari seorang perempuan bernama Jeng Yah. Ketiga saudara tersebut akhirnya berangkat ke Jawa Tengah untuk mencari tahu siapakah perempuan yang namanya selalu disebut dalam hari-hari terakhir hidup sang pendiri Rokok Kretek Djagad Raja tersebut. Sesampainya di kota Kudus, pembaca akan dilempar ke masa lalu untuk meniti napak tilas dibalik usaha rokok Djagad Raja.
+    </string>
+
+    <string name="nov3">
+    Novel ini berkisah tentang kehebatan seorang detektif yg handal, Sherlock Holmes dalam membongkar tabir misteri yg semula mustahil untuk dipecahakan. Sebelumnya ia mendapat surat dari cliennya, Robert Ferguson. Surat itu menceritakan kasus teman Ferguson yg aneh dan mustahil ada dalam kehidupan nyata. Perihal kasus tentang vampire.
+    Temannya menikah yg kedua kalinya dengan wanita dari Peru. Istrinya adalah wanita yg patuh dan setia pada suami. Tapi mengapa 4 bulan yg lalu istrinya dipergoki suaminya telah 2 kali menyerang anak laki-laki dari pernikahannya yg pertama. Seorang anak yg penuh kasih sayang dan pernah mengalami kecelakaan. Dan yg lebih mengejutkan mengapa ia tega menghisap darah bayi mereka layaknya seorang vampire yg sedang melahap mangsanya.
+    </string>
+
+</resources>
